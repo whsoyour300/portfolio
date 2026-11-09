@@ -11,6 +11,15 @@
       "ai": ["Claude Code", "v0", "Perplexity"],
       "url": "https://gam-test-one.vercel.app/",
       "img": "img/w1.jpg"
+    },
+    {
+      "week": 2,
+      "title": "고객 한마디 분류기",
+      "line": "고객 문의 한 줄을 넣으면 분류 · 감정 · 긴급도를 붙여 줍니다.",
+      "judgment": "",
+      "ai": ["Claude Code", "Google AI Studio", "ChatGPT"],
+      "url": "",
+      "img": ""
     }
   ],
   "proposal": null
