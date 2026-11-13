@@ -20,6 +20,15 @@
       "ai": ["Claude Code", "Google AI Studio", "ChatGPT"],
       "url": "",
       "img": ""
+    },
+    {
+      "week": 3,
+      "title": "엑셀 정리기",
+      "line": "엉망인 엑셀·CSV를 넣으면 정한 규칙대로 정리한 표와 바뀐 곳의 기록이 나옵니다. 파일은 브라우저를 떠나지 않습니다.",
+      "judgment": "",
+      "ai": ["Claude Code", "Google Colab"],
+      "url": "https://cleaner-omega-beige.vercel.app",
+      "img": ""
     }
   ],
   "proposal": null
